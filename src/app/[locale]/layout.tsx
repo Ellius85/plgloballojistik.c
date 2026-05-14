@@ -4,6 +4,8 @@ import {notFound} from 'next/navigation';
 import {routing} from '@/i18n/routing';
 import type { Metadata } from 'next';
 import { Inter } from 'next/font/google';
+import Header from '@/components/Header';
+import Footer from '@/components/Footer';
 import '../globals.css';
 
 const inter = Inter({ subsets: ['latin'] });
@@ -33,9 +35,13 @@ export default async function LocaleLayout({
 
   return (
     <html lang={locale}>
-      <body className={`${inter.className} bg-[#F5F5F5] text-[#0B1F3A]`}>
+      <body className={`${inter.className} bg-[var(--color-background-gray)] text-[var(--color-dark-blue)] flex flex-col min-h-screen`}>
         <NextIntlClientProvider messages={messages}>
-          {children}
+          <Header />
+          <div className="flex-grow">
+            {children}
+          </div>
+          <Footer />
         </NextIntlClientProvider>
       </body>
     </html>

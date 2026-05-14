@@ -1,11 +1,17 @@
-import {useTranslations} from 'next-intl';
+import HeroSection from '@/components/HeroSection';
+import ServicesSection from '@/components/ServicesSection';
+import AboutSection from '@/components/AboutSection';
+import AdvantagesSection from '@/components/AdvantagesSection';
+import ContactSection from '@/components/ContactSection';
 
 export default function HomePage() {
-  const t = useTranslations('Hero');
   return (
-    <main className="min-h-screen">
-      <h1 className="text-4xl text-dark-blue font-bold">{t('title')}</h1>
-      <p className="text-light-gray">{t('subtitle')}</p>
+    <main>
+      <HeroSection />
+      <ServicesSection />
+      <AboutSection />
+      <AdvantagesSection />
+      <ContactSection />
     </main>
   );
 }

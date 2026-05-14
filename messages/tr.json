@@ -1,0 +1,59 @@
+{
+  "Navigation": {
+    "home": "Ana Sayfa",
+    "about": "Hakkımızda",
+    "services": "Hizmetlerimiz",
+    "contacts": "İletişim",
+    "getConsultation": "Danışmanlık Alın"
+  },
+  "Hero": {
+    "title": "İşiniz İçin Uluslararası Lojistik",
+    "subtitle": "Dünya çapında güvenilir nakliye ve tedarik zinciri çözümleri. Hızlı, güvenli ve verimli.",
+    "cta": "Danışmanlık Alın"
+  },
+  "Services": {
+    "title": "Hizmetlerimiz",
+    "seaFreight": "Denizyolu Taşımacılığı",
+    "seaFreightDesc": "FCL ve LCL gönderileri için uygun maliyetli küresel okyanus taşımacılığı çözümleri.",
+    "airFreight": "Havayolu Taşımacılığı",
+    "airFreightDesc": "Zaman açısından kritik gönderiler için hızlı ve güvenilir hava kargo teslimatı.",
+    "railFreight": "Demiryolu Taşımacılığı",
+    "railFreightDesc": "Avrupa ve Asya'yı birbirine bağlayan verimli kara taşımacılığı.",
+    "warehousing": "Depolama",
+    "warehousingDesc": "Önemli lojistik merkezlerinde güvenli depolama ve dağıtım hizmetleri.",
+    "customs": "Gümrükleme",
+    "customsDesc": "Sorunsuz gümrük müşavirliği ve belgelendirme hizmetleri."
+  },
+  "About": {
+    "title": "Şirket Hakkında",
+    "years": "Pazardaki Yıllar",
+    "geography": "Kapsanan Ülkeler",
+    "volume": "Teslim Edilen Ton",
+    "readMore": "Hakkımızda Daha Fazla Bilgi Edinin"
+  },
+  "Advantages": {
+    "title": "Neden Bizi Seçmelisiniz",
+    "experience": "Geniş Deneyim",
+    "experienceDesc": "Küresel lojistik ve tedarik zinciri yönetiminde yılların uzmanlığı.",
+    "approach": "Bireysel Yaklaşım",
+    "approachDesc": "Özel iş gereksinimlerinizi karşılamak için özel çözümler.",
+    "reliability": "Güvenilirlik",
+    "reliabilityDesc": "Taşımanın her aşamasında kargonuzun garantili güvenliği.",
+    "support": "7/24 Destek",
+    "supportDesc": "Günün her saati hizmet veren özel müşteri hizmetleri ekibi."
+  },
+  "ContactForm": {
+    "title": "Bize Ulaşın",
+    "name": "Adınız",
+    "email": "E-posta Adresi",
+    "phone": "Telefon Numarası",
+    "message": "Mesajınız",
+    "submit": "Talep Gönder",
+    "success": "Talebiniz başarıyla gönderildi!",
+    "error": "Talep gönderilemedi. Lütfen daha sonra tekrar deneyin."
+  },
+  "Footer": {
+    "description": "PLGLOBALLOJISTIK - Uluslararası lojistik ve taşımacılıkta güvenilir ortağınız.",
+    "rights": "© 2024 PLGLOBALLOJISTIK. Tüm hakları saklıdır."
+  }
+}

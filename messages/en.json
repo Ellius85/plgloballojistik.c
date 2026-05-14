@@ -1,0 +1,59 @@
+{
+  "Navigation": {
+    "home": "Home",
+    "about": "About Us",
+    "services": "Services",
+    "contacts": "Contacts",
+    "getConsultation": "Get Consultation"
+  },
+  "Hero": {
+    "title": "International Logistics for Your Business",
+    "subtitle": "Reliable freight forwarding and supply chain solutions worldwide. Fast, safe, and efficient.",
+    "cta": "Get Consultation"
+  },
+  "Services": {
+    "title": "Our Services",
+    "seaFreight": "Sea Freight",
+    "seaFreightDesc": "Cost-effective global ocean freight solutions for FCL and LCL shipments.",
+    "airFreight": "Air Freight",
+    "airFreightDesc": "Fast and reliable air cargo delivery for time-sensitive shipments.",
+    "railFreight": "Rail Freight",
+    "railFreightDesc": "Efficient overland transportation connecting Europe and Asia.",
+    "warehousing": "Warehousing",
+    "warehousingDesc": "Secure storage and distribution services at key logistics hubs.",
+    "customs": "Customs Clearance",
+    "customsDesc": "Hassle-free customs brokerage and documentation services."
+  },
+  "About": {
+    "title": "About Company",
+    "years": "Years on Market",
+    "geography": "Countries Covered",
+    "volume": "Tons Delivered",
+    "readMore": "Read More About Us"
+  },
+  "Advantages": {
+    "title": "Why Choose Us",
+    "experience": "Vast Experience",
+    "experienceDesc": "Years of expertise in global logistics and supply chain management.",
+    "approach": "Individual Approach",
+    "approachDesc": "Tailored solutions to meet your specific business requirements.",
+    "reliability": "Reliability",
+    "reliabilityDesc": "Guaranteed safety of your cargo at every stage of transportation.",
+    "support": "24/7 Support",
+    "supportDesc": "Dedicated customer service team available around the clock."
+  },
+  "ContactForm": {
+    "title": "Contact Us",
+    "name": "Your Name",
+    "email": "Email Address",
+    "phone": "Phone Number",
+    "message": "Message",
+    "submit": "Send Inquiry",
+    "success": "Your inquiry has been sent successfully!",
+    "error": "Failed to send inquiry. Please try again later."
+  },
+  "Footer": {
+    "description": "PLGLOBALLOJISTIK - Your trusted partner in international logistics and transportation.",
+    "rights": "© 2024 PLGLOBALLOJISTIK. All rights reserved."
+  }
+}
